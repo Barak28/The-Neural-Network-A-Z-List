@@ -3,7 +3,7 @@ There are too many neural nets...Let's start collect them all!
 
 **ANN**- Artificial NN.
 
-**BNN**- Binary NN: neural networks with binary weights and activations at run-time. [Original Paper](https://arxiv.org/pdf/1602.02830.pdf)
+**BNN**- Binary NN: neural networks with binary weights and activations at run-time. [Original Paper](https://arxiv.org/pdf/1602.02830.pdf). Also, a **BreastNet** recently was published.
 
 **CNN**- convolutional NN.
 
@@ -35,7 +35,7 @@ There are too many neural nets...Let's start collect them all!
 
 **QNN**- Quantum NN. [Original Paper](https://arxiv.org/pdf/1810.03787.pdf).
 
-**RNN**- Recurrent NN.
+**RNN**- Recurrent NN. Including **LSTM**.
 
 **SNN**- Spiking NN. [Medium Post](https://towardsdatascience.com/spiking-neural-networks-the-next-generation-of-machine-learning-84e167f4eb2b).
 
