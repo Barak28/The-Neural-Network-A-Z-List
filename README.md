@@ -3,7 +3,10 @@ There are too many neural nets...Let's start collect them all!
 
 **ANN**- Artificial NN.
 
-**BNN**- Binary NN: neural networks with binary weights and activations at run-time. [Original Paper](https://arxiv.org/pdf/1602.02830.pdf). Also, a **BreastNet** recently was published.
+**BNN**
+Bayesian NN: [Original Paper] (https://authors.library.caltech.edu/13793/1/MACnc92b.pdf)
+
+Binary NN: neural networks with binary weights and activations at run-time. [Original Paper](https://arxiv.org/pdf/1602.02830.pdf). Also, a **BreastNet** recently was published.
 
 **CNN**- convolutional NN.
 
