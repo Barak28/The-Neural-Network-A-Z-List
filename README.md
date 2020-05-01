@@ -4,7 +4,8 @@ There are too many neural nets...Let's start collect them all!
 **ANN**- Artificial NN.
 
 **BNN**
-Bayesian NN: [Original Paper] (https://authors.library.caltech.edu/13793/1/MACnc92b.pdf)
+Bayesian NN: [Original Paper](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf)
+
 
 Binary NN: neural networks with binary weights and activations at run-time. [Original Paper](https://arxiv.org/pdf/1602.02830.pdf). Also, a **BreastNet** recently was published.
 
@@ -12,8 +13,7 @@ Binary NN: neural networks with binary weights and activations at run-time. [Ori
 
 **DNN**- Deep NN.
 
-**ENN**- Ensemble NN. [Original Paper](https://arxiv.org/pdf/1607.05427.pdf)
-
+**ENN**- Ensemble NN.
 **FNN**- Feedforward NN.
 
 **GNN**- Graph NN. [Medium: A Gentle Introduction to Graph Neural Networks](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3).
