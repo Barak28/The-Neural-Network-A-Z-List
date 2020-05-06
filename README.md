@@ -5,9 +5,7 @@ There are too many neural nets...Let's start collect them all!
 
 **BNN**
 Bayesian NN: [Original Paper](https://authors.library.caltech.edu/13793/1/MACnc92b.pdf)
-
-
-Binary NN: neural networks with binary weights and activations at run-time. [Original Paper](https://arxiv.org/pdf/1602.02830.pdf). Also, a **BreastNet** recently was published.
+Binary NN: neural networks with binary weights and activations at run-time. [Original Paper](https://arxiv.org/pdf/1602.02830.pdf). Also, a **BreastNet** recently was published. [Original Paper](https://www.sciencedirect.com/science/article/pii/S0378437119319995)
 
 **CNN**- convolutional NN.
 
